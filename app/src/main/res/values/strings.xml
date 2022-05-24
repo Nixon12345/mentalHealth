@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mental Health Tracker</string>
+    <string name="home">Home</string>
+    <string name="member">Member</string>
+    <string name="meditate">Meditate</string>
+    <string name="profile">Profile</string>
+
+    <string name="good">Good</string>
+
+    <string name="sad">Sad</string>
+
+    <string name="happy">Happy</string>
+    <string name="how_are_you_feeling_today">How are you Feeling today?</string>
+    <string name="goodmorning">Goodmorning</string>
+    <string name="thought_of_the_day">Thought of the Day!</string>
+    <string name="whats_on_your_mind">Whats on your mind?</string>
+    <string name="recommend_for_you">Recommend for you</string>
+    <string name="view_all">View All</string>
+    <string name="please_enter_your_email">Please enter your email</string>
+    <string name="email">email</string>
+
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="please_enter_your_password">Please enter your Password</string>
+    <string name="meditate_1">Meditate 1</string>
+    <string name="meditate_2">Meditate 2</string>
+    <string name="meditate_3">Meditate 3</string>
+    <string name="meditate_4">Meditate 4</string>
+</resources>
